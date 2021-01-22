@@ -37,7 +37,11 @@
 
 # Notes on Alcohol Content
 **tested alcohol levels: 
+
 1 day on countertop: 0.2% alc by volume 
+
 2 days on countertop: 1% alc by volume 
+
 3 days on countertop: 1.5% alc by volume 
+
 4 days on countertop: 1.6% alc by volume
