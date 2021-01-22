@@ -33,3 +33,11 @@
 3. Cover with loose lid or permeable cover.
 4. Repeat above steps for 3-5 days to build culture.
 5. After it reaches peak, you can keep in fridge and reduce feeding to once a week.
+
+
+# Notes on Alcohol Content
+**tested alcohol levels: 
+1 day on countertop: 0.2% alc by volume 
+2 days on countertop: 1% alc by volume 
+3 days on countertop: 1.5% alc by volume 
+4 days on countertop: 1.6% alc by volume
